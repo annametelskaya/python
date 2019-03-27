@@ -1,9 +1,9 @@
-Anna Metelakaya|apple|5
+Anna Metelskaya|apple|5
 Veronika Bogdanovich|apple|3
-Anna Metelakaya|pear|2
+Anna Metelskaya|pear|2
 Veronika Bogdanovich|pear|7
-Anna Metelakaya|banana|1
+Anna Metelskaya|banana|1
 Veronika Bogdanovich|banana|2
-Anna Metelakaya|orange|3
+Anna Metelskaya|orange|3
 Veronika Bogdanovich|orange|4
-Anna Metelakaya|lemon|5
+Anna Metelskaya|lemon|5
